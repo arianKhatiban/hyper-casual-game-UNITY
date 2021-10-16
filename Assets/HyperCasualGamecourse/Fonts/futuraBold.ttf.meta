@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f5c520ee96284bb45ab995b3c7e4d2ec
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Futura-Bold
+  fontNames:
+  - Futura-Bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 047efeda14c49468e8e31e1dfe7e125c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
